@@ -1,0 +1,173 @@
+[ 
+    {
+      "id": 30,
+      "name": "Ant-Man",
+      "image": "https://jslowinski.github.io/SuperHeroList/Images/Ant-Man.png"
+    },
+    {
+      "id": 106,
+      "name": "Black Panther",
+      "image": "https://jslowinski.github.io/SuperHeroList/Images/Black-Panther.png"
+    },
+    {
+      "id": 107,
+      "name": "Black Widow",
+      "image": "https://jslowinski.github.io/SuperHeroList/Images/Black-Widow.png"
+    },
+    {
+      "id": 145,
+      "name": "Cable",
+      "image": "https://jslowinski.github.io/SuperHeroList/Images/Cable.png"
+    },
+    {
+      "id": 149,
+      "name": "Captain America",
+      "image": "https://jslowinski.github.io/SuperHeroList/Images/Captain-America.png"
+    },
+    {
+      "id": 157,
+      "name": "Captain Marvel",
+      "image": "https://jslowinski.github.io/SuperHeroList/Images/Captain-Marvel.png"
+    },
+    {
+      "id": 162,
+      "name": "Carnage",
+      "image": "https://jslowinski.github.io/SuperHeroList/Images/Carnage.png"
+    },
+    {
+      "id": 185,
+      "name": "Colossus",
+      "image": "https://jslowinski.github.io/SuperHeroList/Images/Colossus.png"
+    },
+    {
+      "id": 201,
+      "name": "Daredevil",
+      "image": "https://jslowinski.github.io/SuperHeroList/Images/Daredevil.png"
+    },
+    {
+      "id": 213,
+      "name": "Deadpool",
+      "image": "https://jslowinski.github.io/SuperHeroList/Images/Deadpool.png"
+    },
+    {
+      "id": 222,
+      "name": "Doctor Doom",
+      "image": "https://jslowinski.github.io/SuperHeroList/Images/Dr.Doom.png"
+    },
+    {
+      "id": 226,
+      "name": "Doctor Strange",
+      "image": "https://jslowinski.github.io/SuperHeroList/Images/Dr.Strange.png"
+    },
+    {
+      "id": 234,
+      "name": "Drax",
+      "image": "https://jslowinski.github.io/SuperHeroList/Images/Drax.png"
+    },
+    {
+      "id": 274,
+      "name": "Gambit",
+      "image": "https://jslowinski.github.io/SuperHeroList/Images/Gambit.png"
+    },
+    {
+      "id": 275,
+      "name": "Gamora",
+      "image": "https://jslowinski.github.io/SuperHeroList/Images/Gamora.png"
+    },
+    {
+      "id": 299,
+      "name": "Green Goblin",
+      "image": "https://jslowinski.github.io/SuperHeroList/Images/Green-Goblin.png"
+    },
+    {
+      "id": 303,
+      "name": "Groot",
+      "image": "https://jslowinski.github.io/SuperHeroList/Images/Groot.png"
+    },
+    {
+      "id": 332,
+      "name": "Hulk",
+      "image": "https://jslowinski.github.io/SuperHeroList/Images/Hulk.png"
+    },
+    {
+      "id": 345,
+      "name": "Iron Fist",
+      "image": "https://jslowinski.github.io/SuperHeroList/Images/Iron-First.png"
+    },
+    {
+      "id": 346,
+      "name": "Iron Man",
+      "image": "https://jslowinski.github.io/SuperHeroList/Images/Iron-Man.png"
+    },
+    {
+      "id": 416,
+      "name": "Luke Cage",
+      "image": "https://jslowinski.github.io/SuperHeroList/Images/Luke-Cage.png"
+    },
+    {
+      "id": 423,
+      "name": "Magneto",
+      "image": "https://jslowinski.github.io/SuperHeroList/Images/Magneto.png"
+    },
+    {
+      "id": 490,
+      "name": "Nightcrawler",
+      "image": "https://jslowinski.github.io/SuperHeroList/Images/Nightcrawler.png"
+    },
+    {
+      "id": 530,
+      "name": "Punisher",
+      "image": "https://jslowinski.github.io/SuperHeroList/Images/Punisher.png"
+    },
+    {
+      "id": 566,
+      "name": "Rocket Raccoon",
+      "image": "https://jslowinski.github.io/SuperHeroList/Images/Rocket-Raccoon.png"
+    },
+    {
+      "id": 567,
+      "name": "Rogue",
+      "image": "https://jslowinski.github.io/SuperHeroList/Images/Rogue.png"
+    },
+    {
+      "id": 595,
+      "name": "Silk",
+      "image": "https://jslowinski.github.io/SuperHeroList/Images/Silk.png"
+    },
+    {
+      "id": 619,
+      "name": "Spider-Gwen",
+      "image": "https://jslowinski.github.io/SuperHeroList/Images/Spider-Gwen.png"
+    },
+    {
+      "id": 620,
+      "name": "Spider-Man",
+      "image": "https://jslowinski.github.io/SuperHeroList/Images/Spider-Man.png"
+    },
+    {
+      "id": 630,
+      "name": "Star-Lord",
+      "image": "https://jslowinski.github.io/SuperHeroList/Images/Starlord.png"
+    },
+    {
+      "id": 655,
+      "name": "Thanos",
+      "image": "https://jslowinski.github.io/SuperHeroList/Images/Thanos.png"
+    },
+    {
+      "id": 659,
+      "name": "Thor",
+      "image": "https://jslowinski.github.io/SuperHeroList/Images/Thor.png"
+    },
+    {
+      "id": 687,
+      "name": "Venom",
+      "image": "https://jslowinski.github.io/SuperHeroList/Images/Venom.png"
+    },
+    {
+      "id": 717,
+      "name": "Wolverine",
+      "image": "https://jslowinski.github.io/SuperHeroList/Images/Wolverine.png"
+    }
+]
+
